@@ -19,5 +19,6 @@ In my project, I tried to learn Natural Language Processing Basics from Twitter 
 ![Screenshot_1](https://user-images.githubusercontent.com/44119225/105025519-79b0fd00-5a5e-11eb-9863-6244313448a7.jpg)
 
 
-For the last step, I wanted to look at how many genders my algorithm could predict accurate by using Confusion Matrix.My opinion from the confusion matrix is that eventhough my algorithm could predict women genders(1) along with high accuracy, prediction of the men(0) amount is terrible.I need to train my algorithm or I can change the learning model. 
+For the last step, I wanted to look at how many genders my algorithm could predict accurate by using Confusion Matrix.My opinion from the confusion matrix is that eventhough my algorithm could predict women genders(1) along with high accuracy, prediction of the men(0) amount is terrible.I need to train my algorithm or I can change the learning model.
+
 ![Figure_1](https://user-images.githubusercontent.com/44119225/105025604-9d744300-5a5e-11eb-8805-4d96c551d94e.png)
